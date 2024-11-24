@@ -1,5 +1,4 @@
-
-# Green Defend-CNN
+**Green Defend-CNN**
 
 **Graduation Project:** *Green Defend - Intelligent Plant Disease Detection and Agriculture Support System*  
 **Institute:** Mansoura Higher Institute of Engineering and Technology (Engineering College)
