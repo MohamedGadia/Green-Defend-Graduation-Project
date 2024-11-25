@@ -55,6 +55,11 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 
 ---
 
+## TensorFlow Lite (TFLite) Model for Mobile Integration
+**File Name**: `green_defend_cnn.tflite`
+**TensorFlow Lite (TFLite)** version of the trained model was created to facilitate its use in a mobile application. This optimized version ensures efficient, real-time plant disease detection directly on mobile devices.
+
+
 ## Results
 - **Train Accuarcy**: Achieved high accuracy during training, demonstrating the model's ability to learn effectively from the data.
 
