@@ -78,7 +78,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 - Matplotlib
 - Seaborn
 ---
-### Link NoteBook in Kaggle: [https://www.kaggle.com/code/mohamedahmedgadia/green-defend-cnn?scriptVersionId=210199855) 
+### Link NoteBook in Kaggle: [Green-Defend-CNN](https://www.kaggle.com/code/mohamedahmedgadia/green-defend-cnn?scriptVersionId=210199855) 
 
 ---
 
