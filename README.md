@@ -3,7 +3,7 @@
 **Graduation Project:** *Green Defend - Intelligent Plant Disease Detection and Agriculture Support System*  
 **Institute:** Mansoura Higher Institute of Engineering and Technology (Engineering College)
 
-- Developed a mobile and web application leveraging artificial intelligence to detect plant diseases with an accuracy of 98%.
+- Developed a mobile and web application leveraging artificial intelligence to detect plant diseases with an accuracy of 99%.
 - Built a model based on Convolutional Neural Networks (CNN) to classify 38 plant diseases using over 87,000 images.
 - Successfully integrated the model into a mobile and web application, providing a practical and user-friendly solution for farmers and agricultural experts.
 - Had an - grade
@@ -65,7 +65,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 
 - **Validation Accuracy**:Consistently aligned with training accuracy, indicating that the model generalizes well without overfitting.
 
-- **Test Accuracy**: The model achieved an outstanding **98%** accuracy on the test dataset, demonstrating its robustness in correctly classifying plant diseases across unseen data.
+- **Test Accuracy**: The model achieved an outstanding **99%** accuracy on the test dataset, demonstrating its robustness in correctly classifying plant diseases across unseen data.
   
 - **Key Metrics**: Classification report includes precision, recall, and F1-score for each class.
 
@@ -78,7 +78,7 @@ The goal of this project is to identify 38 different plant diseases from RGB ima
 - Matplotlib
 - Seaborn
 ---
-### Link NoteBook in Kaggle: [Green-Defend-CNN](https://www.kaggle.com/code/mohamedahmedgadia/green-defend-cnn/notebook?scriptVersionId=209186217) 
+### Link NoteBook in Kaggle: [Green-Defend-CNN](https://www.kaggle.com/code/mohamedahmedgadia/green-defend-cnn?scriptVersionId=210152502) 
 
 ---
 
