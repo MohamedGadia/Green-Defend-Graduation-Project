@@ -3,10 +3,16 @@
 **Graduation Project:** *Green Defend - Intelligent Plant Disease Detection and Agriculture Support System*  
 **Institute:** Mansoura Higher Institute of Engineering and Technology (Engineering College)
 
-- Developed a mobile and web application leveraging artificial intelligence to detect plant diseases with an accuracy of 98.7%.
-- Built a model based on Convolutional Neural Networks (CNN) to classify 38 plant diseases using over 87,000 images.
-- Successfully integrated the model into a mobile and web application, providing a practical and user-friendly solution for farmers and agricultural experts.
-- Had an A+ grade
+- A machine learning model leveraging a CNN to achieve 98.7% accuracy in classifying 38 plant diseases 
+from over 87,000 images.
+- The dataset was split into 56,251 images for training, 14,044 images for validation, and 17,572 images 
+for testing.
+- Designed a multi-layer CNN architecture with ELU activations, Dropout, and GlorotNormal initialization 
+to optimize performance.
+- Utilized TensorFlow and Keras libraries, incorporating techniques like Early Stopping and Model 
+Checkpoint to prevent overfitting and optimize performance.
+- Evaluated using precision, recall, F1-score, and confusion matrix. 
+- Earned an A+ grade
 
 ---
 
