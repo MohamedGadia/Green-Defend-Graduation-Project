@@ -11,7 +11,8 @@ for testing.
 to optimize performance.
 - Utilized TensorFlow and Keras libraries, incorporating techniques like Early Stopping and Model 
 Checkpoint to prevent overfitting and optimize performance.
-- Evaluated using precision, recall, F1-score, and confusion matrix. 
+- Evaluated using precision, recall, F1-score, and confusion matrix.
+- Integrated the model into a mobile and web application for real-time disease detection.
 - Earned an A+ grade
 
 ---
